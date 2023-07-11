@@ -1,0 +1,19 @@
+total 40
+-rwxr--r-- 1 root root  32 Jul 10 19:02 0-hello_world
+-rwxr--r-- 1 root root   0 Jul 10 19:01 10-no_more_js
+-rwxr--r-- 1 root root   0 Jul 10 19:01 11-directories
+-rwxr--r-- 1 root root   0 Jul 10 19:01 12-newest_files
+-rwxr--r-- 1 root root   0 Jul 10 19:01 13-unique
+-rwxr--r-- 1 root root   0 Jul 10 19:01 14-findthatword
+-rwxr--r-- 1 root root  28 Jul 10 19:16 1-confused_smiley
+-rwxr--r-- 1 root root  28 Jul 10 19:18 2-hellofile
+-rwxr--r-- 1 root root  39 Jul 10 19:20 3-twofiles
+-rwxr--r-- 1 root root  29 Jul 10 19:27 4-lastlines
+-rwxr--r-- 1 root root  29 Jul 10 19:28 5-firstlines
+-rwxr--r-- 1 root root  38 Jul 10 19:38 6-third_lines
+-rwxr--r-- 1 root root   0 Jul 10 19:01 7-file
+-rwxr--r-- 1 root root  36 Jul 10 19:42 8-cwd_state
+-rwxr--r-- 1 root root   0 Jul 10 19:01 9-duplicate_last_line
+-rw-r--r-- 1 root root   0 Jul 10 19:42 file001
+-rw-r--r-- 1 root root 801 Jul 10 19:34 iacta
+-rwxr--r-- 1 root root  67 Jul 10 18:56 README.md
