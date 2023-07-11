@@ -1,0 +1,4 @@
+#!/bin/bash
+finf . -mindepth 1 -type d | wc -l#!/bin/bash
+finf . -mindepth 1 -type d | wc -l#!/bin/bash
+finf . -mindepth 1 -type d | wc -l
